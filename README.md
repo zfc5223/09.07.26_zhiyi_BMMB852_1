@@ -5,4 +5,4 @@ This repository contains my weekly assignments for  **BMMB 852: Applied Bioinfor
 ## Assignments
 
 Week 1: System Setup
-Week 2: Obtain and Visualize Genomic Data
+Week 2: Visualize Genomic Data
