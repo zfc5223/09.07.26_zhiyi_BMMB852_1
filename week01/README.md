@@ -76,13 +76,13 @@ rawdata/samples.tsv
 I accessed the file using its absolute path:
 
 ```bash
-ls /home/zhiyi/1data/projects/09.07.26_zhiyi_BMMB852_1/week01/data/samples.tsv
+ls /home/zhiyi/1data/projects/09.07.26_zhiyi_BMMB852_1/week01/rawdata/samples.tsv
 ```
 
 Output:
 
 ```text
-/home/zhiyi/1data/projects/09.07.26_zhiyi_BMMB852_1/week01/data/samples.tsv
+/home/zhiyi/1data/projects/09.07.26_zhiyi_BMMB852_1/week01/rawdata/samples.tsv
 ```
 
 ## Final directory structure
@@ -107,6 +107,6 @@ Commit the files and pushed them to my public GitHub repository.
 ```bash
 cd ..
 git add week01
-git commit -m "Complete Week 1 assignment"
+git commit -m "Week 1 assignment"
 git push -u origin main
 ```
